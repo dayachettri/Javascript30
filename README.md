@@ -1,1 +1,3 @@
-# Javascript30
+﻿# JavaScript30
+
+1.JavaScript Drum Kit
